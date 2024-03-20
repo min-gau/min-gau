@@ -1,7 +1,5 @@
-Yo!👋
 
 ![](https://tinyurl.com/4yhr9p99)
-- look at my chains
 
 ![](https://tinyurl.com/4yhr9p99)
 <!---
