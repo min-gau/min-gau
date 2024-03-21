@@ -1,4 +1,3 @@
-
 ![](https://tinyurl.com/4yhr9p99)  
 &nbsp;greetings = 'hello, world!'  
 &nbsp;print(greetings)
