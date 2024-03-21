@@ -1,9 +1,7 @@
 
-![](https://tinyurl.com/4yhr9p99)
-
-greetings = 'hello, world!'
-
-print(greetings)
+![](https://tinyurl.com/4yhr9p99)  
+&nbsp;greetings = 'hello, world!'  
+&nbsp;print(greetings)
 
 ![](https://tinyurl.com/4yhr9p99)
 <!---
